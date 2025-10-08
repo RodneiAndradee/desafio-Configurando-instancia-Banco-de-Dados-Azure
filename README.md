@@ -1,1 +1,1 @@
-# desafio-Configurando-inst-ncia-Banco-de-Dados-Azure
+# desafio-Configurando-instancia-Banco-de-Dados-Azure
